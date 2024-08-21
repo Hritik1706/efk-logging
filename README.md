@@ -1,11 +1,11 @@
 
-# Project Setup Instructions
+# EFK Setup Instructions
 
 ## Step 1: Clone the GitHub Repository
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-directory>
+git clone https://github.com/Hritik1706/efk-logging.git
+cd efk-logging
 ```
 
 ## Step 2: Check the Installation
